@@ -1,0 +1,23 @@
+{
+  "name": "logstore",
+  "version": "0.1.0",
+  "description": "centralized log management tool",
+  "main": "logstore.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/auroadmin/logstore.git"
+  },
+  "keywords": [
+    "log",
+    "manager"
+  ],
+  "author": "vijayananth adhinarayanan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/auroadmin/logstore/issues"
+  },
+  "homepage": "https://github.com/auroadmin/logstore"
+}
