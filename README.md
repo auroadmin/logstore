@@ -1,0 +1,2 @@
+# logstore
+centralized log manager
